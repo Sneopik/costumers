@@ -42,3 +42,25 @@
 	font-size: 18px;
 	line-height: 21px;
 }
+
+.costumers--comment--container {
+	background-color: #e2e2e2;
+	padding: 38px 15px;
+	border-radius: 10px;
+	position: relative;
+}
+
+.cotumers--comment {
+	color: #86878b;
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 21px;
+}
+
+.costumers--comment--arrow {
+	position: absolute;
+	top: 100%;
+	left: 60px;
+}
